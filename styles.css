@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Dela Gothic One', cursive;
+}
+#lorem{
+    text-align: center;
+    color: aqua;
+}
+.container{
+    background-color: rgb(76, 228, 202);
+    padding-top: 100px;
+}
+   
